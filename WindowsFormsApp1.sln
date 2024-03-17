@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{E2245ADC-1FC8-4D77-B88D-52A13C475923}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pictures", "pictures", "{96E6C7EE-E8EC-4C2A-83E3-E6533655D5B1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\school\CP 2 Lab\midterm forms\images\image1.jpg = ..\..\..\Desktop\school\CP 2 Lab\midterm forms\images\image1.jpg
+		..\..\..\Desktop\school\CP 2 Lab\midterm forms\images\image2.jpg = ..\..\..\Desktop\school\CP 2 Lab\midterm forms\images\image2.jpg
+		..\..\..\Desktop\school\CP 2 Lab\midterm forms\images\image3.jpg = ..\..\..\Desktop\school\CP 2 Lab\midterm forms\images\image3.jpg
+		..\..\..\Desktop\school\CP 2 Lab\midterm forms\images\image4.jpg = ..\..\..\Desktop\school\CP 2 Lab\midterm forms\images\image4.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2245ADC-1FC8-4D77-B88D-52A13C475923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2245ADC-1FC8-4D77-B88D-52A13C475923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2245ADC-1FC8-4D77-B88D-52A13C475923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2245ADC-1FC8-4D77-B88D-52A13C475923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA33B186-EA2D-409D-8373-30F33F38BB92}
+	EndGlobalSection
+EndGlobal
